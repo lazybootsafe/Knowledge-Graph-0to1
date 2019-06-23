@@ -1,5 +1,5 @@
 # Knowledge-Graph-0to1
-knowledge-graph Note 知识图谱 从0到1
+knowledge-graph Note 知识图谱 从0到1  
 在实验室工作
 可能在下半年就要开始讲解NLP和知识图谱相关了，先想想怎么讲解和带实践项目。
 
@@ -34,4 +34,11 @@ knowledge-graph Note 知识图谱 从0到1
 
 
 -----------
+
 本项目可能转为或者移植到private,要求我也没办法,主要就更新`AI2match`和`go-learning-with-hack`这两个项目~~
+
+
+-----
+
+2019-06-23  
+全部都录制成教程了..  收费的.. 不要去买..  太坑了..   
